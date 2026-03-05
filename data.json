@@ -1,0 +1,122 @@
+// const questionsData = [
+//     {
+//             id: 1,
+//             question: "What is the main purpose of REST API?",
+//             options: [
+//             "To design user interfaces",
+//             "To allow communication between client and server",
+//             "To store data in the browser",
+//             "To style web pages"
+//         ],
+//             correctAnswer: "To allow communication between client and server"
+//         // correctAnswer: 1
+//     },
+//     {
+//             id: 2,
+//             question: "Which HTTP method is used to update existing data?",
+//             options: [
+//             "GET",
+//             "POST",
+//             "PUT",
+//             "FETCH"
+//         ],
+//             correctAnswer: "PUT"
+//         // correctAnswer: 2
+//     },
+//     {
+//             id: 3,
+//             question: "Why is useEffect used in React?",
+//             options: [
+//             "To create components",
+//             "To handle side effects like API calls",
+//             "To style components",
+//             "To replace useState"
+//         ],
+//             correctAnswer: "To handle side effects like API calls"
+//         // correctAnswer: 1
+//     },
+//     {
+//             id: 4,
+//             question: "What happens if you update state directly in React?",
+//             options: [
+//             "Component re-renders faster",
+//             "State updates correctly",
+//             "React will not re-render the component",
+//             "It updates DOM directly"
+//         ],
+//             correctAnswer: "React will not re-render the component"
+//         // correctAnswer: 2
+//     },
+//     {
+//             id: 5,
+//             question: "Which of the following is NOT a frontend technology?",
+//             options: [
+//             "React",
+//             "HTML",
+//             "CSS",
+//             "Node.js"
+//         ],
+//             correctAnswer: "Node.js"
+//         // correctAnswer: 3
+//     },
+//     {
+//             id: 6,
+//             question: "What does middleware do in backend frameworks?",
+//             options: [
+//             "Stores data in database",
+//             "Handles requests before reaching the route",
+//             "Creates UI components",
+//             "Compiles JavaScript"
+//         ],
+//             correctAnswer: "Handles requests before reaching the route"
+//         // correctAnswer: 1
+//     },
+//     {
+//             id: 7,
+//             question: "Why should passwords be hashed before storing?",
+//             options: [
+//             "To reduce database size",
+//             "To improve UI performance",
+//             "To increase security",
+//             "To speed up login"
+//         ],
+//             correctAnswer: "To increase security"
+//         // correctAnswer: 2
+//     },
+//     {
+//             id: 8,
+//             question: "Which database is best suited for relational data?",
+//             options: [
+//             "MongoDB",
+//             "Firebase",
+//             "MySQL",
+//             "Redis"
+//         ],
+//             correctAnswer: "MySQL"
+//         // correctAnswer: 2
+//     },
+//     {
+//             id: 9,
+//             question: "What does CORS protect against?",
+//             options: [
+//             "Slow internet connections",
+//             "Cross-origin unauthorized requests",
+//             "Database failures",
+//             "Server crashes"
+//         ],
+//             correctAnswer: "Cross-origin unauthorized requests"
+//         // correctAnswer: 1
+//     },
+//     {
+//             id: 10,
+//             question: "What is the main job of a backend server?",
+//             options: [
+//             "Design web pages",
+//             "Handle user interactions",
+//             "Process logic and manage data",
+//             "Animate UI components"
+//         ],
+//             correctAnswer: "Process logic and manage data"
+//         // correctAnswer: 2
+//     }
+// ];
